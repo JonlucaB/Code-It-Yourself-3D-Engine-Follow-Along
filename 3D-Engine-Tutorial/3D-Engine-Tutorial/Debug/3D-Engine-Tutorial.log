@@ -1,0 +1,8 @@
+﻿  3D-Engine-Tutorial.cpp
+C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\3D-Engine-Tutorial\3D-Engine-Tutorial.cpp(114,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\3D-Engine-Tutorial\3D-Engine-Tutorial.cpp(114,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\3D-Engine-Tutorial\3D-Engine-Tutorial.cpp(113,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\3D-Engine-Tutorial\3D-Engine-Tutorial.cpp(113,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\3D-Engine-Tutorial\3D-Engine-Tutorial.cpp(112,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\3D-Engine-Tutorial\3D-Engine-Tutorial.cpp(112,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3D-Engine-Tutorial.vcxproj -> C:\Side Projects\Temp\3D-Engine\Code-It-Yourself-3D-Engine-Follow-Along\3D-Engine-Tutorial\Debug\3D-Engine-Tutorial.exe
